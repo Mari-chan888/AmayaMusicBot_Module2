@@ -5,4 +5,3 @@ Commands are the following:
 /queue 
 /skip
 
-It can convert the mp4 files from YouTube to mp3 and download it directly 
